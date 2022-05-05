@@ -1,6 +1,6 @@
 # Layer1 Comparison
   
-  - | Ethereum | Solana | Avalanche | BSC | Tron | Terra 
+  -- | Ethereum | Solana | Avalanche | BSC | Tron | Terra 
 --- | --- | --- | --- |--- |--- |--- 
 EVM based | Yes | No | Yes | Yes | Yes | No 
 number of nodes | >5000 | >1000 | >1000 | capped @21 | >1000 | capped @130 
